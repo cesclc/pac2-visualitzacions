@@ -1,0 +1,36 @@
+{
+  "accessed": "2026-10-30",
+  "eurostatUpdated": "2026-10-28T23:00:00+0100",
+  "eurostatFilters": {
+    "freq": "A",
+    "unit": "PAS",
+    "tra_meas": "PAS_CRD",
+    "schedule": "TOTAL",
+    "tra_cov": "TOTAL",
+    "time": "2025"
+  },
+  "palmaMonthlyFilters": {
+    "freq": "M",
+    "unit": "PAS",
+    "tra_meas": "PAS_CRD",
+    "schedule": "TOTAL",
+    "tra_cov": "TOTAL",
+    "time": "2025-01…2025-12",
+    "rep_airp": "ES_LEPA"
+  },
+  "corpus": "Introduction and chapters I–XV, sixth edition (1872). Excludes prefaces, contents, glossary, index and Gutenberg boilerplate. Lowercase ASCII-word tokenizer with internal apostrophes, possessive s stripped; words of one letter removed; no stemming or lemmatization. Stopword list is published.",
+  "rawSourceSHA256": {
+    "darwin.txt": "2b13c8524d813e706ad23336d81a142d48b44f1f96788b41494a0a83e1b82f88",
+    "eurostat_2025.json": "4829e6bd28b71e97107fd26873312953cc1d2c4e8528c99fcdb6f8f0c4d78cdd",
+    "palma_2025.json": "f8378f6ae832080b4b508ec31d777f7a4ccf7301d71e5a1c1ecd000c2588cc74",
+    "airports.csv": "423a70f3a3a6b849db1063a5558e47bbd4e715decb6071f1f80f413ab92a88ac",
+    "countries.geojson": "3e458fc036ad0a66411f2c1e6cac49c5d7bfb81cb1123bc513b22511a2b7fdeb"
+  },
+  "sources": [
+    "https://www.gutenberg.org/ebooks/2009",
+    "https://ec.europa.eu/eurostat/databrowser/view/avia_paoa/default/table?lang=en",
+    "https://ec.europa.eu/eurostat/help/copyright-notice",
+    "https://ourairports.com/data/",
+    "https://www.naturalearthdata.com/about/terms-of-use/"
+  ]
+}

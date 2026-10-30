@@ -1,0 +1,66 @@
+{
+  "airports": 34,
+  "missingAirports": 31,
+  "airportTotal": 320338441,
+  "top2Share": 39.154653312432146,
+  "palmaAnnual": 33790541,
+  "palmaMax": {
+    "month": 8,
+    "label": "Agost",
+    "passengers": 4698153,
+    "year": 2025
+  },
+  "palmaMin": {
+    "month": 1,
+    "label": "Gener",
+    "passengers": 909631,
+    "year": 2025
+  },
+  "palmaRatio": 5.164899833009209,
+  "summerShare": 52.178910068353154,
+  "rawTokens": 193811,
+  "keptTokens": 84281,
+  "distinctWords": 7960,
+  "topWords": [
+    {
+      "word": "species",
+      "count": 1812
+    },
+    {
+      "word": "forms",
+      "count": 527
+    },
+    {
+      "word": "selection",
+      "count": 510
+    },
+    {
+      "word": "natural",
+      "count": 491
+    },
+    {
+      "word": "varieties",
+      "count": 437
+    },
+    {
+      "word": "plants",
+      "count": 393
+    },
+    {
+      "word": "animals",
+      "count": 383
+    },
+    {
+      "word": "different",
+      "count": 348
+    },
+    {
+      "word": "great",
+      "count": 344
+    },
+    {
+      "word": "distinct",
+      "count": 343
+    }
+  ]
+}

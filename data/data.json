@@ -1,0 +1,652 @@
+{
+  "words": [
+    {
+      "word": "species",
+      "count": 1812
+    },
+    {
+      "word": "forms",
+      "count": 527
+    },
+    {
+      "word": "selection",
+      "count": 510
+    },
+    {
+      "word": "natural",
+      "count": 491
+    },
+    {
+      "word": "varieties",
+      "count": 437
+    },
+    {
+      "word": "plants",
+      "count": 393
+    },
+    {
+      "word": "animals",
+      "count": 383
+    },
+    {
+      "word": "different",
+      "count": 348
+    },
+    {
+      "word": "great",
+      "count": 344
+    },
+    {
+      "word": "distinct",
+      "count": 343
+    },
+    {
+      "word": "case",
+      "count": 338
+    },
+    {
+      "word": "life",
+      "count": 330
+    },
+    {
+      "word": "cases",
+      "count": 309
+    },
+    {
+      "word": "long",
+      "count": 309
+    },
+    {
+      "word": "nature",
+      "count": 309
+    },
+    {
+      "word": "conditions",
+      "count": 299
+    },
+    {
+      "word": "first",
+      "count": 292
+    },
+    {
+      "word": "new",
+      "count": 279
+    },
+    {
+      "word": "structure",
+      "count": 266
+    },
+    {
+      "word": "number",
+      "count": 259
+    },
+    {
+      "word": "period",
+      "count": 246
+    },
+    {
+      "word": "common",
+      "count": 243
+    },
+    {
+      "word": "time",
+      "count": 238
+    },
+    {
+      "word": "become",
+      "count": 233
+    },
+    {
+      "word": "parts",
+      "count": 233
+    },
+    {
+      "word": "far",
+      "count": 219
+    },
+    {
+      "word": "genera",
+      "count": 218
+    },
+    {
+      "word": "degree",
+      "count": 215
+    },
+    {
+      "word": "part",
+      "count": 210
+    },
+    {
+      "word": "modified",
+      "count": 205
+    },
+    {
+      "word": "instance",
+      "count": 201
+    },
+    {
+      "word": "large",
+      "count": 199
+    },
+    {
+      "word": "characters",
+      "count": 198
+    },
+    {
+      "word": "manner",
+      "count": 196
+    },
+    {
+      "word": "groups",
+      "count": 195
+    },
+    {
+      "word": "individuals",
+      "count": 195
+    },
+    {
+      "word": "closely",
+      "count": 189
+    },
+    {
+      "word": "birds",
+      "count": 187
+    },
+    {
+      "word": "form",
+      "count": 187
+    },
+    {
+      "word": "organs",
+      "count": 185
+    },
+    {
+      "word": "present",
+      "count": 184
+    },
+    {
+      "word": "believe",
+      "count": 183
+    },
+    {
+      "word": "whole",
+      "count": 175
+    },
+    {
+      "word": "differences",
+      "count": 172
+    },
+    {
+      "word": "found",
+      "count": 169
+    },
+    {
+      "word": "important",
+      "count": 168
+    },
+    {
+      "word": "like",
+      "count": 168
+    },
+    {
+      "word": "intermediate",
+      "count": 167
+    },
+    {
+      "word": "produced",
+      "count": 167
+    },
+    {
+      "word": "given",
+      "count": 166
+    }
+  ],
+  "airports": [
+    {
+      "icao": "LEMD",
+      "name": "Madrid-Barajas",
+      "passengers": 68043437,
+      "latitude": 40.493407,
+      "longitude": -3.572249,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEBL",
+      "name": "Barcelona-El Prat",
+      "passengers": 57383969,
+      "latitude": 41.2971,
+      "longitude": 2.07846,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEPA",
+      "name": "Palma de Mallorca",
+      "passengers": 33790541,
+      "latitude": 39.551701,
+      "longitude": 2.73881,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEMG",
+      "name": "Màlaga",
+      "passengers": 26711816,
+      "latitude": 36.678234,
+      "longitude": -4.500208,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEAL",
+      "name": "Alacant-Elx",
+      "passengers": 19933538,
+      "latitude": 38.2822,
+      "longitude": -0.558156,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "GCLP",
+      "name": "Gran Canària",
+      "passengers": 15741295,
+      "latitude": 27.9319,
+      "longitude": -15.3866,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "GCTS",
+      "name": "Tenerife Sud",
+      "passengers": 13872053,
+      "latitude": 28.0445,
+      "longitude": -16.5725,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEVC",
+      "name": "València",
+      "passengers": 11820007,
+      "latitude": 39.489162,
+      "longitude": -0.480961,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEZL",
+      "name": "Sevilla",
+      "passengers": 9669939,
+      "latitude": 37.417999,
+      "longitude": -5.89311,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEIB",
+      "name": "Eivissa",
+      "passengers": 9121779,
+      "latitude": 38.872898,
+      "longitude": 1.37312,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "GCRR",
+      "name": "Lanzarote",
+      "passengers": 8891490,
+      "latitude": 28.945499,
+      "longitude": -13.6052,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "GCXO",
+      "name": "Tenerife Nord",
+      "passengers": 7187038,
+      "latitude": 28.482752,
+      "longitude": -16.341707,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEBB",
+      "name": "Bilbao",
+      "passengers": 7058604,
+      "latitude": 43.301102,
+      "longitude": -2.91061,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "GCFV",
+      "name": "Fuerteventura",
+      "passengers": 6820280,
+      "latitude": 28.4527,
+      "longitude": -13.8638,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEMH",
+      "name": "Menorca",
+      "passengers": 4203236,
+      "latitude": 39.862598,
+      "longitude": 4.21865,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEST",
+      "name": "Santiago",
+      "passengers": 3107973,
+      "latitude": 42.896301,
+      "longitude": -8.41514,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEGE",
+      "name": "Girona",
+      "passengers": 2181567,
+      "latitude": 41.904639,
+      "longitude": 2.761774,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEAS",
+      "name": "Asturias",
+      "passengers": 2045615,
+      "latitude": 43.563599,
+      "longitude": -6.03462,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "GCLA",
+      "name": "La Palma",
+      "passengers": 1529974,
+      "latitude": 28.626499,
+      "longitude": -17.7556,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LERS",
+      "name": "Reus",
+      "passengers": 1323472,
+      "latitude": 41.147509,
+      "longitude": 1.168354,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LECO",
+      "name": "A Coruna",
+      "passengers": 1295581,
+      "latitude": 43.302101,
+      "longitude": -8.37726,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEGR",
+      "name": "Granada/Federico Garcia Lorca Granada-Jaen",
+      "passengers": 1153475,
+      "latitude": 37.188702,
+      "longitude": -3.77736,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEVX",
+      "name": "Vigo",
+      "passengers": 1113519,
+      "latitude": 42.2318,
+      "longitude": -8.62677,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEXJ",
+      "name": "Seve Ballesteros-Santander",
+      "passengers": 1067870,
+      "latitude": 43.427101,
+      "longitude": -3.82001,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEMI",
+      "name": "Murcia/Aeropuerto De La Region De Murcia Airport",
+      "passengers": 947402,
+      "latitude": 37.802852,
+      "longitude": -1.124884,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEJR",
+      "name": "Jerez",
+      "passengers": 878468,
+      "latitude": 36.744598,
+      "longitude": -6.06011,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEAM",
+      "name": "Almeria",
+      "passengers": 795835,
+      "latitude": 36.843899,
+      "longitude": -2.3701,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEZG",
+      "name": "Zaragoza",
+      "passengers": 706547,
+      "latitude": 41.666199,
+      "longitude": -1.04155,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "GEML",
+      "name": "Melilla",
+      "passengers": 530423,
+      "latitude": 35.2798,
+      "longitude": -2.95626,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LESO",
+      "name": "San Sebastian",
+      "passengers": 475269,
+      "latitude": 43.356499,
+      "longitude": -1.79061,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "GCHI",
+      "name": "Hierro",
+      "passengers": 312195,
+      "latitude": 27.8148,
+      "longitude": -17.8871,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEVT",
+      "name": "Vitoria",
+      "passengers": 304271,
+      "latitude": 42.882801,
+      "longitude": -2.72447,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEPP",
+      "name": "Pamplona",
+      "passengers": 232768,
+      "latitude": 42.77,
+      "longitude": -1.64633,
+      "year": 2025,
+      "flag": ""
+    },
+    {
+      "icao": "LEVD",
+      "name": "Valladolid",
+      "passengers": 87195,
+      "latitude": 41.7061,
+      "longitude": -4.85194,
+      "year": 2025,
+      "flag": ""
+    }
+  ],
+  "palma": [
+    {
+      "month": 1,
+      "label": "Gener",
+      "passengers": 909631,
+      "year": 2025
+    },
+    {
+      "month": 2,
+      "label": "Febrer",
+      "passengers": 1056888,
+      "year": 2025
+    },
+    {
+      "month": 3,
+      "label": "Març",
+      "passengers": 1550534,
+      "year": 2025
+    },
+    {
+      "month": 4,
+      "label": "Abril",
+      "passengers": 3008128,
+      "year": 2025
+    },
+    {
+      "month": 5,
+      "label": "Maig",
+      "passengers": 3820384,
+      "year": 2025
+    },
+    {
+      "month": 6,
+      "label": "Juny",
+      "passengers": 4228975,
+      "year": 2025
+    },
+    {
+      "month": 7,
+      "label": "Juliol",
+      "passengers": 4592916,
+      "year": 2025
+    },
+    {
+      "month": 8,
+      "label": "Agost",
+      "passengers": 4698153,
+      "year": 2025
+    },
+    {
+      "month": 9,
+      "label": "Setembre",
+      "passengers": 4111492,
+      "year": 2025
+    },
+    {
+      "month": 10,
+      "label": "Octubre",
+      "passengers": 3499935,
+      "year": 2025
+    },
+    {
+      "month": 11,
+      "label": "Novembre",
+      "passengers": 1214842,
+      "year": 2025
+    },
+    {
+      "month": 12,
+      "label": "Desembre",
+      "passengers": 1098663,
+      "year": 2025
+    }
+  ],
+  "stats": {
+    "airports": 34,
+    "missingAirports": 31,
+    "airportTotal": 320338441,
+    "top2Share": 39.154653312432146,
+    "palmaAnnual": 33790541,
+    "palmaMax": {
+      "month": 8,
+      "label": "Agost",
+      "passengers": 4698153,
+      "year": 2025
+    },
+    "palmaMin": {
+      "month": 1,
+      "label": "Gener",
+      "passengers": 909631,
+      "year": 2025
+    },
+    "palmaRatio": 5.164899833009209,
+    "summerShare": 52.178910068353154,
+    "rawTokens": 193811,
+    "keptTokens": 84281,
+    "distinctWords": 7960,
+    "topWords": [
+      {
+        "word": "species",
+        "count": 1812
+      },
+      {
+        "word": "forms",
+        "count": 527
+      },
+      {
+        "word": "selection",
+        "count": 510
+      },
+      {
+        "word": "natural",
+        "count": 491
+      },
+      {
+        "word": "varieties",
+        "count": 437
+      },
+      {
+        "word": "plants",
+        "count": 393
+      },
+      {
+        "word": "animals",
+        "count": 383
+      },
+      {
+        "word": "different",
+        "count": 348
+      },
+      {
+        "word": "great",
+        "count": 344
+      },
+      {
+        "word": "distinct",
+        "count": 343
+      }
+    ]
+  }
+}
